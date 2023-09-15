@@ -272,3 +272,10 @@ smoking a long hookah, and taking not the smallest notice of her or of
 anything else.
 
 ![Alice peeps over a mushroom to look at a large blue caterpillar smoking a hookah](img/illustration-15.png)
+
+### List of Figures
+
+- [Figure 1](#id-of-illustration-1) 
+- [Figure 2](#id-of-illustration-2)
+- [Figure 3](#id-of-illustration-3)
+- [Figure 4](#id-of-illustration-4)
