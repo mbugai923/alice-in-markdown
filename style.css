@@ -1,0 +1,23 @@
+html {
+    max-width: 960px;
+}
+
+img {
+    max-width: 415px;
+}
+
+figure {
+    padding: 2%;
+    background-color:rgb(105, 121, 185);
+}
+
+figcaption {
+    font-size: 80%;
+    font-family: sans-serif;
+}
+
+p {
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    font-family: 'Mooli', sans-serif;
+
+}
