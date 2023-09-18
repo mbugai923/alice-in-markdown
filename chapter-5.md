@@ -1,6 +1,7 @@
-CHAPTER V.
-Advice from a Caterpillar
+# CHAPTER V.
+## Advice from a Caterpillar
 
+![Alice peers up at the blue caterpillar](img/illustration-15.png)
 
 The Caterpillar and Alice looked at each other for some time in
 silence: at last the Caterpillar took the hookah out of its mouth, and
@@ -73,52 +74,60 @@ used—and I don’t keep the same size for ten minutes together!”
 
 “Can’t remember _what_ things?” said the Caterpillar.
 
-“Well, I’ve tried to say “How doth the little busy bee,” but it all
+“Well, I’ve tried to say “_How doth the little busy bee_,” but it all
 came different!” Alice replied in a very melancholy voice.
 
 “Repeat, “_You are old, Father William_,’” said the Caterpillar.
 
 Alice folded her hands, and began:—
 
-“You are old, Father William,” the young man said,
-    “And your hair has become very white;
-And yet you incessantly stand on your head—
-    Do you think, at your age, it is right?”
+![Youth looks at Father William standing on his head](img/illustration-16.png)
 
-“In my youth,” Father William replied to his son,
-    “I feared it might injure the brain;
-But, now that I’m perfectly sure I have none,
-    Why, I do it again and again.”
+“_You are old, Father William_,” _the young man said_,
+    “_And your hair has become very white;_
+_And yet you incessantly stand on your head—_
+    _Do you think, at your age, it is right?_”
 
-“You are old,” said the youth, “as I mentioned before,
-    And have grown most uncommonly fat;
-Yet you turned a back-somersault in at the door—
-    Pray, what is the reason of that?”
+“_In my youth_,” _Father William replied to his son_,
+    “_I feared it might injure the brain;_
+_But, now that I’m perfectly sure I have none_,
+    _Why, I do it again and again._”
 
-“In my youth,” said the sage, as he shook his grey locks,
-    “I kept all my limbs very supple
-By the use of this ointment—one shilling the box—
-    Allow me to sell you a couple?”
+![Youth stares in awe at Father William's back somersault](img/illustration-17.png)
 
-“You are old,” said the youth, “and your jaws are too weak
-    For anything tougher than suet;
-Yet you finished the goose, with the bones and the beak—
-    Pray, how did you manage to do it?”
+“_You are old,” said the youth_, “_as I mentioned before_,
+    _And have grown most uncommonly fat;_
+_Yet you turned a back-somersault in at the door—_
+    _Pray, what is the reason of that?_”
 
-“In my youth,” said his father, “I took to the law,
-    And argued each case with my wife;
-And the muscular strength, which it gave to my jaw,
-    Has lasted the rest of my life.”
+“_In my youth_,” _said the sage_, _as he shook his grey locks_,
+    “_I kept all my limbs very supple_
+_By the use of this ointment—one shilling the box—_
+    _Allow me to sell you a couple?_”
 
-“You are old,” said the youth, “one would hardly suppose
-    That your eye was as steady as ever;
-Yet you balanced an eel on the end of your nose—
-    What made you so awfully clever?”
+![Youth is shocked by his father finishing the goose](img/illustration-18.png)
 
-“I have answered three questions, and that is enough,”
-    Said his father; “don’t give yourself airs!
-Do you think I can listen all day to such stuff?
-    Be off, or I’ll kick you down stairs!”
+“_You are old_,” _said the youth_, “_and your jaws are too weak_
+   _For anything tougher than suet;_
+_Yet you finished the goose, with the bones and the beak—_
+    _Pray, how did you manage to do it?_”
+
+“_In my youth_,” _said his father_, “_I took to the law_,
+    _And argued each case with my wife;_
+_And the muscular strength, which it gave to my jaw_,
+    _Has lasted the rest of my life._”
+
+![Father balances eel on his nose](img/illustration-19.png)
+
+“_You are old_,” _said the youth_, “_one would hardly suppose_
+    _That your eye was as steady as ever;_
+_Yet you balanced an eel on the end of your nose—_
+   _What made you so awfully clever?_”
+
+“_I have answered three questions, and that is enough_,”
+    _Said his father; “don’t give yourself airs!_
+_Do you think I can listen all day to such stuff?_
+    _Be off, or I’ll kick you down stairs!_”
 
 
 “That is not said right,” said the Caterpillar.
